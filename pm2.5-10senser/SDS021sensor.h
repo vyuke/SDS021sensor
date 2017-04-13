@@ -1,5 +1,5 @@
-#ifndef pm2510senser_H
-#define pm2510senser_H
+#ifndef SDS021sensor_H
+#define SDS021sensor_H
 
 #if ARDUINO >= 100
  #include "Arduino.h"
